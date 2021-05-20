@@ -1,0 +1,10 @@
+.container {
+    background: lightgrey;
+    line-height: 30px;
+}
+
+.progress-bar {
+    background-color: yellow;
+    width:0%;
+    text-align: center;
+}
